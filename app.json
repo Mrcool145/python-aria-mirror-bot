@@ -8,7 +8,6 @@
 
     "keywords": [
 
-
       "telegram",
 
       "bot",
@@ -23,7 +22,7 @@
 
     "website": "https://github.com/MrCarb0n/tg-mirror-bot/tree/master",
 
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/m>
+    "success_url": "https://seedrapi.herokuapp.com",
 
     "stack": "container"
 
